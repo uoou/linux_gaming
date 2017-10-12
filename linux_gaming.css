@@ -1,5 +1,5 @@
-
-dy {
+/* GENERAL */
+body {
     background: #efefef;
 }
 body > .content {
@@ -43,6 +43,8 @@ ul.flat-list a {
 }
 #header-img {
     margin: 5px 10px -15px 10px;
+    width: 70px;
+    height: 74px;
 }
 #header .pagename {
     background: #333;
