@@ -1,5 +1,5 @@
-
-dy {
+/* GENERAL */
+body {
     background: #efefef;
 }
 body > .content {
@@ -27,10 +27,6 @@ ul.flat-list a {
 .side {
     max-width: 25%;
 }
-.sr-list .flat-list a {
-    color: #222 !important;
-}
-
 /* HEADER */
 
 #header {
