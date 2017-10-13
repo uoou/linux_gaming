@@ -335,6 +335,9 @@ ul.tabmenu.formtab .selected a {
     border: 0px;
     background: gainsboro;
 }
+.content .commentarea a.submitter {
+    color: mediumaquamarine !important;
+}
 
 /* SIDEFLAIRS */
 .side a[href*='#all'] { 
